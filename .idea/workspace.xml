@@ -8,7 +8,14 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/insta/home/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/insta/home/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/insta/home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/insta/home/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/insta/insta/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/insta/insta/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/insta/insta/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/insta/insta/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/insta/login/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/insta/login/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/insta/login/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/insta/login/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/insta/login/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/insta/login/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/insta/login/views.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,23 +38,23 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2t9oe8vp3th2NsPm2I6hCnrVLSH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -88,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739780682299</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new">
+      <option name="closed" value="true" />
+      <created>1739782113684</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739782113684</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
